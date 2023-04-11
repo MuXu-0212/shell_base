@@ -1,0 +1,36 @@
+aa
+aabb
+xxaabb
+
+
+abc01            ABCDEFG789654
+ddd02            CODEJIAONANG
+afcf01           ghjkloiqwtq
+acac11           poiuy98765
+321              msstgr4567
+acef33           gg8888888
+bbc000           88888888999
+
+
+
+code 123 archer 	CODEINFO
+code luncher	codeasd/   111
+code.caster	codejiaonang-MASTER
+code-saber
+
+
+
+姓名		入学日期	班级	级别	年龄	分数
+M.Tansley	05/2013		48311	Green	18	90
+J.Lulu		04/2012		48317	Green	12	88
+P.bunny		02/2013		48	Yellow	19	70
+J.Troll		09/2013		4842	Brown-1	11	95
+M.J		06/2011		3892	white	18	70
+L.Tansley	05/2013		4712	Brown-2	10	85
+Vincent		07/2012		4712	Black	11	87
+
+
+
+
+
+
